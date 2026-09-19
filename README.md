@@ -1,5 +1,9 @@
 # API Usage & Cost Analytics Platform
 
+**Live demo:** https://api-usage-cost-analytics-platform-hqhn.onrender.com/
+
+> Hosted on Render's free tier — the backend spins down after periods of inactivity, so the first load may take 30–60 seconds to wake up.
+
 A multi-provider API observability and cost analytics MVP for tracking request volume, latency, errors, and spend across providers such as OpenAI, Anthropic, Gemini, Stripe, Twilio, AWS, and internal APIs.
 
 ## What is included
